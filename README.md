@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on [PetrolStationApp](github.com/hugohabicht01/PetrolStationApp)
 
-- 🌱 I’m currently learning **Typescript, Jest and Redis**
+- 🌱 I’m currently learning **React, [tRPC](https://trpc.io/) and [Next.js](https://nextjs.org/)**
 
 - 💬 Ask me about **Arch, Vue, Javascript and Python**
 
-- ⚡ Fun fact **I use arch btw**
+- ⚡ Fun fact **I don't use an IDE, I develop everything inside a custom devsetup, using tmux and neovim**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
