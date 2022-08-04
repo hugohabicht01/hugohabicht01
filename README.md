@@ -11,6 +11,8 @@
 
 - 💬 Ask me about **Arch, Vue, Javascript and Python**
 
+- 📖 I'm reading [The Rust Programming Language](https://doc.rust-lang.org/book/) at the moment
+
 - ⚡ Fun fact **I don't use an IDE, I develop everything inside a custom devsetup, using tmux and neovim**
 
 <h3 align="left">Connect with me:</h3>
